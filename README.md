@@ -109,13 +109,14 @@ The interactive dashboard was created in Tableau consisting of three analytical 
 
 ## Dashboard Preview
 
-<img width="1280" height="717" alt="Screenshot 2026-04-27 204348" src="https://github.com/user-attachments/assets/97f8cdc2-b40f-42a5-afd9-c9c3f8ebb8d1" />
+<img width="1280" height="717" alt="Screenshot 2026-04-27 204348" src="https://github.com/user-attachments/assets/7664416b-2c60-4e1e-ba20-fe671e64e62b" />
 
 
-<img width="1274" height="715" alt="Screenshot 2026-04-27 204509" src="https://github.com/user-attachments/assets/0c64d5be-3718-47c8-84dc-05fe3ac95a68" />
+<img width="1274" height="715" alt="Screenshot 2026-04-27 204509" src="https://github.com/user-attachments/assets/ac602a0f-efc0-41c3-bc61-21cc80eea636" />
 
 
-<img width="1275" height="719" alt="Screenshot 2026-04-27 204545" src="https://github.com/user-attachments/assets/ea2295f6-4d38-409c-bb9b-5f3228df3e75" />
+<img width="1275" height="719" alt="Screenshot 2026-04-27 204545" src="https://github.com/user-attachments/assets/b31c8db0-56c2-46b6-9422-a685781e837a" />
+
 
 
 ## How to Use
