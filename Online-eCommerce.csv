@@ -1,4 +1,4 @@
-Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,Cost,Sales,Quantity,Total_Cost,Total_Sales,Assigned Supervisor
+﻿Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,Cost,Sales,Quantity,Total_Cost,Total_Sales,Assigned Supervisor
 139374,AP,Adhir Samal,11/1/2020,Delivered,512 GB M.2,SSD,Samsung,6500,8450,1,6500,8450,Ajay Sharma
 139375,AP,Dannana Jhammi,11/1/2020,Delivered,RYZEN 3rd gen. 3500 ,CPU,Intel,8500,11050,3,25500,33150,Roshan Kumar
 139376,AS,Vipin Kumar,11/1/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000,9100,2,14000,18200,Aarvi Gupta
